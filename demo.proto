@@ -8,4 +8,6 @@ message Demo {
     string date = 1;
     int32 value = 2;
     int32 second_value = 3;
+    int32 third_value = 4;
+    string fourth_value = 5;
 }
