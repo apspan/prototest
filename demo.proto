@@ -10,4 +10,5 @@ message Demo {
     int32 second_value = 3;
     int32 third_value = 4;
     string fourth_value = 5;
+    string fifth_value = 6;
 }
